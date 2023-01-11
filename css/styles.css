@@ -1,13 +1,17 @@
 .sidebar  {
   background-color: rgb(168, 163, 163);
   float: right;
-  text-align; center;
-  width: 40%;
+  /*text-align; center;
+  width: 40%;*/
+  padding: 10px;
+  border: 10px solid rgb(28, 95, 28)
+  
 }
 
 img {
   width: 300px;
   height: 300px;
+  float: left;
 }
 
 .column {
